@@ -1,1 +1,1 @@
-# Projeto-L-gico-de-Banco-de-Dados-ECOMMERCE-
+# Projeto-Logico-de-Banco-de-Dados-ECOMMERCE-
